@@ -1,5 +1,7 @@
 # SBTI Personality Test — Complete Type Guide
 
+[English](README.md)            [中文版](README-zh.md)
+
 > **SBTI (Silly Big Personality Test)​** is a viral personality quiz that took Chinese social media by storm in April 2026. Inspired by MBTI, but instead of serious psychological labels, it gives you one of 27 absurdly accurate self-deprecating personality types.
 >
 > Take the test: [sbtitest.pro](https://sbtitest.pro)
