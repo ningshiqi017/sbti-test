@@ -1,5 +1,7 @@
 # SBTI 人格测试 — 完整人格类型指南
 
+[中文版](README-zh.md) [English](README.md)
+
 > **SBTI（Silly Big Personality Test）​** 是 2026 年 4 月在中文互联网爆火的人格测试。
 > 它以 MBTI 为灵感框架，但结果不是严肃的心理学标签，而是 27 种荒诞又精准的自嘲式人格。
 >
